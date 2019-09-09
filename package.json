@@ -1,0 +1,19 @@
+
+{
+    "name" : "games.artees.application-version",
+    "version" : "1.0.0",
+    "displayName" : "Application Version",
+    "description" : "A tool for Unity Editor allowing you to update the version number of your application and synchronize it with the iOS/Mac build number and the Android bundle version code",
+    "unity"       : "2019.2",
+    "unityRelease" : "",
+    "dependencies" : {
+        "games.artees.semver" : "0.3.3"
+    },
+    "keywords"     : [
+    ],
+    "author"       : {
+        "name" : "Artees",
+        "email" : "yo@artees.games",
+        "url"   : "https://github.com/Artees/Unity-Application-Version"
+    }
+}

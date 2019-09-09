@@ -1,0 +1,17 @@
+{
+    "name": "Artees.ApplicationVersion.Editor",
+    "references": [
+        "GUID:5c3f1380e574b164a89bcd1cbdf7b747",
+        "GUID:c7f2f2911de381941be7186214305448"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
